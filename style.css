@@ -29,7 +29,7 @@ body {
   .menu-item {
     text-decoration: none;
     color: #333;
-    padding: 15px;
+    padding: 5px;
     display: inline-block;
   }
   .menu-item:hover {

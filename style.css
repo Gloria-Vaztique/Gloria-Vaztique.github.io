@@ -176,13 +176,13 @@ footer {
     margin-top: 5%;
   }
   .menu-item{
-    font-size: 28.5%;
+    font-size: 29%;
     text-align: center;
     padding: 0.25%;
   }
   
   body{
-  font-size: 60%;  
+  font-size: 63%;  
 
   }
   h1{
@@ -193,10 +193,16 @@ footer {
   }
   .esquinasA{
     margin-left: 80%;
-    margin-top: 190%;
+    margin-top: 182%;
+    position: fixed;
+    display: inline-block;
+    display: flex;
   }
   .esquina1{
-    margin-top: 62%;
+    margin-top: 60.5%;
+    position: fixed;
+    display: inline-block;
+    display: flex;
   }
 main{
   margin: 3%;
